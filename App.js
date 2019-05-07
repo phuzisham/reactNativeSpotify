@@ -3,6 +3,10 @@ import {View} from 'react-native';
 import Header from './src/components/Header';
 import SearchBar from './src/components/SearchBar';
 
+const handleSearchChange = (text) => {
+  console.log('search text is', text);
+};
+
 export default class App extends Component {
   render() {
     return (
