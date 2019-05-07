@@ -3,16 +3,16 @@ import {View} from 'react-native';
 import Header from './src/components/Header';
 import SearchBar from './src/components/SearchBar';
 
-const handleSearchChange = (text) => {
-  console.log('search text is', text);
-};
-
 export default class App extends Component {
+  handleSearchChange = (text) => {
+    console.log('search text is', text);
+  };
+
   render() {
     return (
       <View style={styles.windowStyle}>
         <Header headerText={'Spotify'} />
-        <SearchBar onChange={text => handleSearchChange(text)} />
+        <SearchBar onChange={text => this.handleSearchChange(text)} />
     </View>
     );
   }
