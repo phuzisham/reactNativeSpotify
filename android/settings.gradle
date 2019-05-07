@@ -1,0 +1,3 @@
+rootProject.name = 'reactSpotify'
+
+include ':app'
