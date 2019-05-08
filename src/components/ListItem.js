@@ -6,14 +6,7 @@ import {
   StyleSheet,
 } from 'react-native';
 
-
-
-export default ({
-  item: {
-    imageUri,
-    title,
-  }
-}) => (
+export default ({item: {imageUri, title }}) => (
   <View style={styles.container}>
     <Image source={{ uri: imageUri }} style={styles.image}/>
     <Text style={styles.title}>{title}</Text>
@@ -30,6 +23,7 @@ const styles = StyleSheet.create({
       height: 100,
       marginRight: 10,
     },
-    title: {},
+    title: {
+      fontSize: 20
+    },
   });
-  

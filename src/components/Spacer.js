@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import { FlatList, View, Text } from 'react-native';
+import React from 'react';
+import { View } from 'react-native';
 
 export default ({ items }) => (
   <View

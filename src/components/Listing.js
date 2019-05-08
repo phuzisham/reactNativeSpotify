@@ -1,6 +1,5 @@
 import React from 'react';
 import { FlatList, Text } from 'react-native';
-
 import ListItem from './ListItem';
 import Spacer from './Spacer';
 
