@@ -15,7 +15,7 @@ export default class App extends Component {
     this.state = {
       songs: [],
       offset: 0,
-      query: 'Shpongle',
+      query: 'Fiest',
       isFetching: false,
       isEmpty: false,
       token: null,
