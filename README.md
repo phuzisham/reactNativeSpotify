@@ -19,8 +19,7 @@ Start your emulator and have it ready to recieve app.
 * _'cd ..'_
 * _'react-native run-android'_
 
-## Description
+### Description
 
 _Using Spotify API the app loads a list of songs the user searches for._
 
-![Screenshot](https://github.com/phuzisham/crewmates/blob/master/img/cap.png "Screen Capture")
