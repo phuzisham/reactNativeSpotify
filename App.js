@@ -39,7 +39,6 @@ export default class App extends Component {
     });
 
     if (newSongs.length === 0) {
-      console.log('no songs found. there may be an error');
       this.setState({ isEmpty: true });
     }
   
@@ -77,8 +76,6 @@ export default class App extends Component {
     }, () => {
       this.loadNextPage();
     });
-
-    console.log('search text is', text);
   }
 
   async handleEndReached() {

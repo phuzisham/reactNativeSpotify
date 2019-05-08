@@ -6,18 +6,7 @@ import {
   StyleSheet,
 } from 'react-native';
 
-const styles = StyleSheet.create({
-  container: {
-    flexDirection: 'row',
-    alignItems: 'center',
-  },
-  image: {
-    width: 100,
-    height: 100,
-    marginRight: 10,
-  },
-  title: {},
-});
+
 
 export default ({
   item: {
@@ -30,3 +19,17 @@ export default ({
     <Text style={styles.title}>{title}</Text>
   </View>
 );
+
+const styles = StyleSheet.create({
+    container: {
+      flexDirection: 'row',
+      alignItems: 'center',
+    },
+    image: {
+      width: 100,
+      height: 100,
+      marginRight: 10,
+    },
+    title: {},
+  });
+  
