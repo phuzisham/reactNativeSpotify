@@ -2,7 +2,7 @@
 #### _Created: 05.07.2019_
 Simple React app using Spotify API
 
-![Screenshot](https://github.com/phuzisham/reactAlbums/src/images/screenshot.png "Screen Capture")
+![Screenshot](https://github.com/phuzisham/reactAlbums/blob/master/src/images/screenshot.png "Screen Capture")
 
 To see in action:
 
