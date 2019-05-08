@@ -14,12 +14,16 @@ Start your emulator and have it ready to recieve app.
 * _In console 'npm-install'_
 * _In console 'react-native run-android'_
 
-### App should run. If you recieve gradle error:
+### If you recieve gradle error:
 
 * _'cd android'_
 * _'gradlew clean'_
 * _'cd ..'_
 * _'react-native run-android'_
+
+### On mac:
+
+_Follow instructions on this link: https://medium.com/@randerson112358/setup-react-native-environment-for-ios-97bf7faadf77_
 
 ### Description
 
