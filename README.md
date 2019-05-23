@@ -7,6 +7,14 @@ Simple React app using Spotify API
 
 To see in action:
 
+### On Mac:
+
+You will need xCode installed.
+
+_Follow instructions on this link: https://medium.com/@randerson112358/setup-react-native-environment-for-ios-97bf7faadf77_
+
+### On Windows:
+
 You will need Android Studio or some way of emulating a phone.
 Start your emulator and have it ready to recieve app.
 
@@ -21,10 +29,6 @@ Start your emulator and have it ready to recieve app.
 * _'gradlew clean'_
 * _'cd ..'_
 * _'react-native run-android'_
-
-### On mac:
-
-_Follow instructions on this link: https://medium.com/@randerson112358/setup-react-native-environment-for-ios-97bf7faadf77_
 
 ### Description
 
