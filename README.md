@@ -18,7 +18,7 @@ _Follow instructions on this link: https://medium.com/@randerson112358/setup-rea
 You will need Android Studio or some way of emulating a phone.
 Start your emulator and have it ready to recieve app.
 
-* _In console clone repository 'git clone https://github.com/phuzisham/reactAlbums.git'_
+* _In console clone repository 'git clone https://github.com/phuzisham/reactNativeSpotify.git'_
 * _In console 'cd reactSpotify'_
 * _In console 'npm-install'_
 * _In console 'react-native run-android'_
