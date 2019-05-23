@@ -1,5 +1,6 @@
-# reactAlbums
+# reactNativeSpotify
 #### _Created: 05.07.2019_
+#### _Updated: 05.23.2019_
 Simple React app using Spotify API
 
 ![Screenshot](https://github.com/phuzisham/reactAlbums/blob/master/src/images/screenshot.png "Screen Capture")
