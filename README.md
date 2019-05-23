@@ -32,5 +32,5 @@ Start your emulator and have it ready to recieve app.
 
 ### Description
 
-_Using Spotify API the app loads a list of songs the user searches for._
+_Using Spotify API the app loads a list of songs the user searches for by artist, title, or album._
 
